@@ -1,0 +1,2 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It allows you to place versions of files or multiple files to commit at the same time.  You won't alwasy want to commit all the files at the same time so this is a way to manage your commits.
